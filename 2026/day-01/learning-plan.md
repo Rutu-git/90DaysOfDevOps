@@ -7,6 +7,7 @@ Day 01 – Introduction to DevOps and Cloud
 Today’s goal is to set the foundation for your DevOps journey.
 
 What is devops and cloud engineering?
+
 Devops - 
 It is the idea that improves the collaboration between development team and operation team using various automation tools.
 
